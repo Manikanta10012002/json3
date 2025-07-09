@@ -1,0 +1,26 @@
+{
+  "name": "json",
+  "version": "1.0.0",
+  "main": "index.js",
+  
+"scripts": {
+  "start": "node index.js"
+}
+,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Manikanta10012002/json.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Manikanta10012002/json/issues"
+  },
+  "homepage": "https://github.com/Manikanta10012002/json#readme",
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "json-server": "^1.0.0-beta.3"
+  }
+}
